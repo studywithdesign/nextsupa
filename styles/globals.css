@@ -6,6 +6,22 @@
   .navbar-btn{
     @apply rounded-md text-white text-xl font-medium py-2 px-6 cursor-pointer transition-all duration-150;
   }
+
+  .input-box{
+    @apply rounded-md p-2 md:w-72;
+  }
+
+  .input-div{
+    @apply flex flex-col;
+  }
+
+  .input-label{
+      @apply font-medium py-1;
+  }
+
+  .input-submit{
+    @apply w-full p-2 rounded-lg text-white;
+  }
 }
 
 *{

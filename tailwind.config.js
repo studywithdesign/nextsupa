@@ -12,9 +12,9 @@ module.exports = {
         mediumTextColor: "#4E4E4E",
       },
       fontFamily: {
-        'quicksand': ['Quicksand'],
-        'poppins': ['Poppins']
-      }
+        quicksand: ["Quicksand"],
+        poppins: ["Poppins"],
+      },
     },
   },
   plugins: [],
